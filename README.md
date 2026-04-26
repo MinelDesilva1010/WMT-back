@@ -13,14 +13,6 @@
    npm run dev
    ```
 
-## API Endpoints
-- `GET /api/items`
-- `GET /api/items/:id`
-- `POST /api/items`
-- `PUT /api/items/:id`
-- `DELETE /api/items/:id`
-
-
 git init
 git add .
 git commit -m "setup"
